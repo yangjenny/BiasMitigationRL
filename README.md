@@ -12,3 +12,10 @@ To run code: python run.py
 
 (UCI Adult dataset automatically loaded for training)
 
+## Citation
+
+If you found our work useful, please consider citing:
+
+Yang, J., Soltan, A. A., & Clifton, D. A. (2022). Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: A New Utility for Deep Reinforcement Learning. medRxiv.
+
+
