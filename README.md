@@ -22,6 +22,8 @@ python BiasMitigationRL/run.py
 
 (UCI Adult dataset automatically loaded for training)
 
+This example uses the UCI Adult dataset, where one is trying to classify income (two classes: <=50K and >50K). Additional details about the dataset, including all attributes included, can be found [here](https://archive.ics.uci.edu/ml/datasets/Adult).
+
 ## Citation
 
 If you found our work useful, please consider citing:
