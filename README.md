@@ -14,7 +14,11 @@ pip install -e .
 
 ## Getting Started
 
-To run code: python run.py
+To run code: 
+
+```
+python run.py
+```
 
 (UCI Adult dataset automatically loaded for training)
 
