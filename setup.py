@@ -10,10 +10,10 @@ setup(
     version="1",
     author="Jenny Yang",
     author_email="jenny.yang@eng.ox.ac.uk",
-    description="BiasMitigationRL provides automatic training of classifier, while mitigating chosen bias",
+    description="BiasMitigationRL provides automatic training of a classifier, while mitigating a chosen bias",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://https://github.com/yangjenny/reinforcement_learning_bias_mitigation/",
+    url="https://https://github.com/yangjenny/BiasMitigationRL/",
     classifiers=[
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
