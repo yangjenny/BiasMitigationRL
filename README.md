@@ -17,7 +17,7 @@ pip install -e .
 To run code: 
 
 ```
-python run.py
+python BiasMitigationRL/run.py
 ```
 
 (UCI Adult dataset automatically loaded for training)
