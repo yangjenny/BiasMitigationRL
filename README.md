@@ -7,7 +7,7 @@ This repository hosts the version of the code used for the publication ["Algorit
 We have tested this implementation using Python version 3.6.9 and Tensorflow version 2.6.2 on a linux OS machine. To use this branch, you can run the following lines of code:
 
 ```
-git clone https://github.com/yangjenny/reinforcement_learning_bias_mitigation.git
+git clone https://github.com/yangjenny/BiasMitigationRL.git
 cd BiasMitigationRL
 pip install -e .
 ```
