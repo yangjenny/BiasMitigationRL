@@ -4,7 +4,13 @@ This repository hosts the version of the code used for the publication ["Algorit
 
 ## Dependencies
 
-This will be updated soon.
+We have tested this implementation using Python version 3.6.9 and Tensorflow version 2.6.2 on a linux OS machine. To use this branch, you can run the following lines of code:
+
+```
+https://github.com/yangjenny/reinforcement_learning_bias_mitigation.git
+cd BiasMitigationRL
+pip install -e .
+```
 
 ## Getting Started
 
