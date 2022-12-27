@@ -1,7 +1,6 @@
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-import pickle
 import random
 import os
 import sklearn
