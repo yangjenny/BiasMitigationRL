@@ -31,7 +31,6 @@ setup(
         'pandas',
         'sklearn',
         'shap',
-        'math',
         'collections',
         'argparse',
         'ast'
