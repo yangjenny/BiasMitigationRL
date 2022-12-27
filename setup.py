@@ -30,7 +30,6 @@ setup(
         'numpy',
         'pandas',
         'sklearn',
-        'shap',
-        'ast'
+        'shap'
     ]
 )
