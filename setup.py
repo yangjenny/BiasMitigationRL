@@ -29,7 +29,6 @@ setup(
         'tensorflow',
         'numpy',
         'pandas',
-        'random',
         'os',
         'sklearn',
         'shap',
