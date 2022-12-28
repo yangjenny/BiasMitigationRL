@@ -4,7 +4,11 @@ This repository hosts the version of the code used for the publication ["Algorit
 
 ## Dependencies
 
-We have tested this implementation using Python version 3.6.9 and Tensorflow version 2.6.2 on a linux OS machine. To use this branch, you can run the following lines of code:
+We have tested this implementation using:
+1. Python version 3.6.9 and Tensorflow version 2.6.2 on a linux OS machine. 
+2. Python version 3.9.2 and Tensorflow version 2.11.0 on a mac OS machine (Big Sur). 
+
+To use this branch, you can run the following lines of code:
 
 ```
 conda create -n BiasMitigationEnv python==3.7
