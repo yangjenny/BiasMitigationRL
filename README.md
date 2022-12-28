@@ -24,9 +24,10 @@ python BiasMitigationRL/run.py
 
 (UCI Adult dataset automatically loaded for training)
 
-This example uses the UCI Adult dataset, where one is trying to classify income (two classes: <=50K and >50K). Additional details about the dataset, including all attributes included, can be found [here](https://archive.ics.uci.edu/ml/datasets/Adult).
+This example uses the UCI Adult dataset, where one is trying to classify income (two classes: <=50K and >50K), and mitigate gender (male vs female) bias. Additional details about the dataset, including all attributes included, can be found [here](https://archive.ics.uci.edu/ml/datasets/Adult).
 
 After training, performance metrics (auroc,npv,ppv,recall,specificity) and raw prediction results will be saved as csv files in the path. 
+An example run and expected output can be found in example/training_example.ipynb
 
 ## Citation
 
