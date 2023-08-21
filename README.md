@@ -1,6 +1,6 @@
 # Reinforcement Learning for Bias Mitigation
 
-This repository hosts the version of the code used for the publication ["Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: A New Utility for Deep Reinforcement Learning"](https://www.medrxiv.org/content/10.1101/2022.06.24.22276853v1). 
+This repository hosts the version of the code used for the publication ["Algorithmic fairness and bias mitigation for clinical machine learning with deep reinforcement learning"](https://www.nature.com/articles/s42256-023-00697-3). 
 
 ## Dependencies
 
